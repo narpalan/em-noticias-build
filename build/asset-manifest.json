@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f3f6c7d.css",
+    "main.js": "/static/js/main.d1ac40f0.js",
+    "static/js/787.b3b6da2a.chunk.js": "/static/js/787.b3b6da2a.chunk.js",
+    "static/media/OSCAR_BACURAU.png": "/static/media/OSCAR_BACURAU.cac7041696360493dd3d.png",
+    "static/media/cinema_card.png": "/static/media/cinema_card.1cb4efdd6671d1ad8544.png",
+    "static/media/rectangle.png": "/static/media/rectangle.65abe7872a023ae868e8.png",
+    "static/media/oscar_card.png": "/static/media/oscar_card.488366e864de5afe8145.png",
+    "static/media/bbm.png": "/static/media/bbm.cc1edc79b6bfeb89a6f9.png",
+    "index.html": "/index.html",
+    "main.0f3f6c7d.css.map": "/static/css/main.0f3f6c7d.css.map",
+    "main.d1ac40f0.js.map": "/static/js/main.d1ac40f0.js.map",
+    "787.b3b6da2a.chunk.js.map": "/static/js/787.b3b6da2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f3f6c7d.css",
+    "static/js/main.d1ac40f0.js"
+  ]
+}
